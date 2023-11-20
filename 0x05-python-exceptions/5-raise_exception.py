@@ -1,5 +1,5 @@
 #!/usr/bin/python3
 
-
 def raise_exception():
-    raise TypeError("Error Occured")
+    """Raise a TypeError exception."""
+    raise TypeError
